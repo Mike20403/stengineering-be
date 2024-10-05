@@ -1,12 +1,14 @@
-# Knorex Back-end 
-1. **Install Dependencies**:
+# STEngineering Back-end 
+0. **System requirements**
+- Node.js version 20+.
+2. **Install Dependencies**:
 
    Install all required packages using npm:
 
    ```bash
    npm install
    ```
-2. **Run project**:
+3. **Run project**:
      ```bash
    npm run dev
    ```
